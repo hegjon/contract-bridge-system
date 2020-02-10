@@ -74,7 +74,7 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 * 2♥ (over 1♠) = 5+♥ og utgangskrav om man ikke gjenmelder 3♥
 * 2♥ / ♠ = 5-9, 3 korts støtte
 * 2♠ (over 1♥) = 6+ ♠, gode farge, krav til utgang
-* 2NT = FG med 4+ støtte
+* 2NT = Stenberg, 4+ korts støtte
 * 3♣ = 7-10, 4+ støtte
 * 3♦ = 11-12, 4+ støtte invitt
 * 3♥/♠ = 2-6, 4+ korts støtte
@@ -90,5 +90,5 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
  * 2nt = balansert utgangskrav. Kan ha 3 kort i åpningfargen. Da får en mer opplysninger om makkers
 hånd på et lavt trinn.
  * 3♣ = kan passes
- * 3 åpningsfargen = utgangskrav med 3 kort i åpningsfargen, vanligvis 5+♣ . Med balansert hånd og
+ * 3 åpningsfargen = utgangskrav med 3 kort i åpningsfargen, vanligvis 5+♣. Med balansert hånd og
 sleminteresse er det oftest rett å melde 2NT for å høre mer om makkers fordeling.
