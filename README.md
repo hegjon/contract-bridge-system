@@ -20,18 +20,18 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 | 4 ♣ - 4 ♠ | 8 farge    |
 
 
-| Balansert | Eksempel        | Overføring |
-| --------- | --------------- | ---------- |
-| 11-14     | 1♣ -> 1♦ -> 1NT | Nei        |
-| 15-17     | 1NT             | Ja         |
-| 18-19     | 1♣ -> 1♦ -> 2NT | Nei        |
-| 20-21     | 2♣ -> 2♦ -> 2NT | ?          |
-| 22-24     | 2NT             | Ja         |
-| 25-26     | 3NT             | ?          |
+| Balansert | Eksempel      | Overføring |
+| --------- | ------------- | ---------- |
+| 11-14     | 1♣ → 1♦ → 1NT | Nei        |
+| 15-17     | 1NT           | Ja         |
+| 18-19     | 1♣ → 1♦ → 2NT | Nei        |
+| 20-21     | 2♣ → 2♦ → 2NT | ?          |
+| 22-24     | 2NT           | Ja         |
+| 25-26     | 3NT           | ?          |
 
 
 ## 1 ♣ / ♦ åpning
-1♣ = 3+ ♣, 11+
+1♣/♦ = 3+♣/♦ 11+
 
 ### Svar:
 * Farge på 1-trinnet 5/6+, ubegrenset.
@@ -50,11 +50,11 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 * Hopp i grand = 18-19, balansert
   * Deretter blir alle meldinger utgangskrav
 * Hopp i ny farge = krav til utgang
-  * Eks 1♣ -> 1♦ -> 2♥
-  * Eks 1♦ -> 1♥ -> 2♠
+  * Eks 1♣ → 1♦ → 2♥
+  * Eks 1♦ → 1♥ → 2♠
 * Revers i ny farge = Krav for en runde
-  * Eks 1♣ -> 1♥ -> 2♦
-  * Eks 1♦ -> 1♠ -> 2♥
+  * Eks 1♣ → 1♥ → 2♦
+  * Eks 1♦ → 1♠ → 2♥
 * Revers etter 2-over-1 = utgangskrav
-  * Eks 1♦ -> 2♣ -> 2♥. Når vil 3♣ også være utgangskrav siden 2♥ er krav til utgang
+  * Eks 1♦ → 2♣ → 2♥. Når vil 3♣ også være utgangskrav siden 2♥ er krav til utgang
 * Hopp til 3NT over svar på 1-trinnet = spillemelding med lang minor
