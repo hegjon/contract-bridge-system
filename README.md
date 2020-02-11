@@ -4,20 +4,20 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 
 ## Oversikt
 
-| Åpning    | Hånd         |
-| --------- | ------------ |
-| 1 ♣       | 3+♣ 11+      |
-| 1 ♦       | 3+♦ 11+      |
-| 1 ♥       | 5+♥ 11+      |
-| 1 ♠       | 5+♠ 11+      |
-| 1 NT      | 15-17 BAL    |
-| 2 ♣       | 20+          |
-| 2 ♦       | 6♦ 6-10      |
-| 2 ♥       | 6♥ 6-10      |
-| 2 ♠       | 6♠ 6-10      |
-| 2 NT      | 22-24 BAL    |
-| 3 ♣ - 3 ♠ | 7 kortsfarge |
-| 4 ♣ - 4 ♠ | 8 kortsfarge |
+| Åpning    | HP    | Hånd         |
+| --------- | ----- | ------------ |
+| 1 ♣       | 11+   | 3+♣          |
+| 1 ♦       | 11+   | 3+♦          |
+| 1 ♥       | 11+   | 5+♥          |
+| 1 ♠       | 11+   | 5+♠          |
+| 1 NT      | 15-17 | Balansert    |
+| 2 ♣       | 20+   | Sterk hånd   |
+| 2 ♦       | 6-10  | 6 ♦          |
+| 2 ♥       | 6-10  | 6 ♥          |
+| 2 ♠       | 6-10  | 6 ♠          |
+| 2 NT      | 22-24 | Balansert    |
+| 3 ♣ - 3 ♠ | 6-10  | 7 kortsfarge |
+| 4 ♣ - 4 ♠ | 6-10  | 8 kortsfarge |
 
 
 | Balansert | Eksempel      | Overføring |
