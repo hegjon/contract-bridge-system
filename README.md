@@ -36,13 +36,12 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 ### Svar:
 * Farge på 1-trinnet 5/6+, ubegrenset.
 * 1NT = 6-10, benekter 4 i farge som kan meldes på 1-trinnet
-* Støtte i åpningsfargen, 6-9, oftest 5+ kløver over 1 kløver, 4+ ruter over 1♦
-* 2♣ (over 1♦) = FG om man ikke gjenmelder 3♣ over 2♦/2NT
-(Dersom åpner melder 2M, ville dette være revers og være krav til utgang)
 * 1M = 4+M 6+
+* 2♣/♦ = 6-9, støtte i farge, 5+♣/♦
+* 2♣ (over 1♦) = 4+♣, utgangskrav
 * Hopp i ny farge, minst 6 kort i fargen, utgangskrav
 * 2NT = 11-12, balansert, invitt, ikke 4 korts major
-* Hopp til 3 i åpningsfargen = 10-12, 5+ korts kløver over 1 ♣, 4+ ruter over 1♦
+* 3♣/♦ = 10-12, støtte i farge, 5+♣/♦
 * 3NT = 13-15, balansert, benekter 4M
 
 
@@ -72,6 +71,4 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 * 2♥ / ♠ = 5-9, 3 korts støtte
 * 2♠ (over 1♥) = 6+ ♠, gode farge, krav til utgang
 * 2NT = Stenberg, 4+ korts støtte
-* 3♣ = 7-10, 4+ støtte
-* 3♦ = 11-12, 4+ støtte invitt
-* 3♥/♠ = 2-6, 4+ korts støtte
+* 3♥/♠ = 10-12, 3+ korts støtte
