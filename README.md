@@ -12,9 +12,9 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 | 1 ♠       | 5+♠ 11+      |
 | 1 NT      | 15-17 BAL    |
 | 2 ♣       | 20+          |
-| 2 ♦       | 6♦ 6-10 hp   |
-| 2 ♥       | 6♥ 6-10 hp   |
-| 2 ♠       | 6♠ 6-10 hp   |
+| 2 ♦       | 6♦ 6-10      |
+| 2 ♥       | 6♥ 6-10      |
+| 2 ♠       | 6♠ 6-10      |
 | 2 NT      | 22-24 BAL    |
 | 3 ♣ - 3 ♠ | 7 kortsfarge |
 | 4 ♣ - 4 ♠ | 8 kortsfarge |
@@ -40,7 +40,7 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 * 2♣/♦ = 6-9, støtte i farge, 5+♣/♦
 * 2♣ (over 1♦) = 4+♣, utgangskrav
 * Hopp i ny farge, minst 6 kort i fargen, utgangskrav
-* 2NT = 11-12, balansert, invitt, ikke 4 korts major
+* 2NT = 11-12, balansert, invitt, benekter 4M
 * 3♣/♦ = 10-12, støtte i farge, 5+♣/♦
 * 3NT = 13-15, balansert, benekter 4M
 
