@@ -72,3 +72,18 @@ Basert på System, Norge jenter Nordisk 2017 av Sven-Olai Høyland.
 * 2♠ (over 1♥) = 6+ ♠, gode farge, krav til utgang
 * 2NT = Stenberg, 4+ korts støtte
 * 3♥/♠ = 10-12, 3+ korts støtte
+
+## Forsvarsmeldinger
+
+### Motparten åpner med 1NT
+* Doble = 15+
+* 2♣ = Minst 4/4 major 15+
+* 2♦ = 5+♦ 15+
+* 2♥ = 5+♥ og 4+ minor 15+
+* 2♠ = 5+♠ og 4+ minor 15+
+* 2NT = Minst 5/4 minor 15+
+
+### Svar:
+* 2♣ = Ikke støtte ➞ 2♦. Støtte ➞ beste major
+* 2♥/♠ = Ikke støtte ➞ 2NT. Støtte ➞ invitt eller pass
+* 2NT = Beste minor
